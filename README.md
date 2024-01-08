@@ -39,9 +39,3 @@ Vercel linki: https://mekanbul1.vercel.app/
 4. **public/venues.json:** REST API yazana kadar, geçici olarak mekan verilerinin çekileceği dosya
 5. **public/favicon.ico:** Websitesi ikonu
 
-## Sitenin Tüm Bileşen Yapısı
-
-![Bileşenler](<Frontend Tasarım.png>)
-=======
-# mekanbul1
->>>>>>> 72c82bb852e52252b0df152b7851730a045f3b2f
