@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Mekabul React Front-End
 
 Vercel linki: https://mekanbul1.vercel.app/
