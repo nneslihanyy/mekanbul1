@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer>
-      <small>&copy; Asım Sinan Yüksel 2023</small>{" "}
+      <small>&copy; Neslihan Yağmurca 2023</small>{" "}
     </footer>
   );
 }
