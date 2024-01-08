@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mekabul React Front-End
 
 Vercel linki: [https://mekanbul-frontend-asimsinan.vercel.app](https://mekanbul-frontend-asimsinan.vercel.app)
@@ -41,3 +42,6 @@ Vercel linki: [https://mekanbul-frontend-asimsinan.vercel.app](https://mekanbul-
 ## Sitenin Tüm Bileşen Yapısı
 
 ![Bileşenler](<Frontend Tasarım.png>)
+=======
+# mekanbul1
+>>>>>>> 72c82bb852e52252b0df152b7851730a045f3b2f
